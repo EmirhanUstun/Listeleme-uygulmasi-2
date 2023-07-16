@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="yukaridan_bosluk">10dp</dimen>
+    <dimen name="Padding">20dp</dimen>
+    <dimen name="marginEnd">16dp</dimen>
+    <dimen name="marginStart">16dp</dimen>
+    <dimen name="imgUserWidth">50dp</dimen>
+    <dimen name="imgUserHeight">50dp</dimen>
+    <dimen name="imgUserStart">10dp</dimen>
+    <dimen name="imgUserTop">20dp</dimen>
+    <dimen name="imgUserBottom">20dp</dimen>
+    <dimen name="txtIsimStart">8dp</dimen>
+    <dimen name="txtExplanationStart">10dp</dimen>
+    <dimen name="txtExplanation">264dp</dimen>
+    <dimen name="progressTop">124dp</dimen>
+    <dimen name="imgWidth">150dp</dimen>
+    <dimen name="imgHeight">150dp</dimen>
+    <dimen name="imgStart">169dp</dimen>
+    <dimen name="imgTop">220dp</dimen>
+    <dimen name="imgEnd">170dp</dimen>
+    <dimen name="btnSiralaWidth">200dp</dimen>
+    <dimen name="imgGridWidth">50dp</dimen>
+    <dimen name="cardViewHeight">400dp</dimen>
+    <dimen name="detailedImageWidth">200dp</dimen>
+    <dimen name="detailedImageHeight">200dp</dimen>
+    <dimen name="detailedImageStart">96dp</dimen>
+    <dimen name="detailedImageTop">20dp</dimen>
+    <dimen name="detailedImageBottom">20dp</dimen>
+</resources>

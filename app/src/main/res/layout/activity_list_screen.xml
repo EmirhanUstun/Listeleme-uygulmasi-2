@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/teal_200"
+    android:orientation="vertical"
+    android:padding="20dp"
+    tools:context=".Screen.ListScreen">
+
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/champ"
+        android:textColor="@color/black"
+        android:textSize="25sp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/btnSirala"
+        android:layout_width="@dimen/btnSiralaWidth"
+        android:layout_height="wrap_content"
+        android:text="@string/sirala" />
+
+    <ImageView
+        android:id="@+id/imgGrid"
+        android:layout_width="@dimen/imgGridWidth"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/grid" />
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/rcvFutbolcular"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+
+</LinearLayout>

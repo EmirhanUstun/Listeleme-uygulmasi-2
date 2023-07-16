@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">H5210060 Emirhan Ustun Final</string>
+    <string name="sirala">Sırala</string>
+    <string name="azalan">İsme göre azalan</string>
+    <string name="artan">İsme göre artan</string>
+    <string name="cik">Çık</string>
+    <string name="champ">Champions</string>
+
+
+
+</resources>
